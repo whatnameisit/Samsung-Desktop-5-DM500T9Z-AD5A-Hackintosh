@@ -6,8 +6,8 @@
  | - | - |
  | Model | Samsung Desktop 5 DM500T9Z-AD5A |
  | CPU | Intel Core i5-9400 |
- | SSD | Samsung MZNLN256HAJQ-000 *(Original)* / TeamGroup L3 EVO 240GB *(External macOS Disk)* |
- | HDD | WDC WD10EZEX-22MFCA0 |
+ | SSD | Samsung MZNLN256HAJQ-000 240 GB *(Stock)* / TeamGroup L3 EVO 480 GB *(External macOS Disk)* |
+ | HDD | WDC WD10EZEX-22MFCA0 1 TB |
  | Graphics | Intel UHD Graphics 630 |
  | RAM | Samsung 8GB 2667 MHz DDR4 DIMM |
  | Ethernet | Realtek RTL8168 Gigabit Ethernet Controller |
