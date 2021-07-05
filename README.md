@@ -8,9 +8,10 @@
  | CPU | Intel Core i5-9400 |
  | Graphics | Intel UHD Graphics 630 |
  | RAM | 8GB DDR4 |
- | Wi-Fi / Bluetooth | DW1820A (BCM94350ZAE / BCM20702A0) *(Replaced)* |
+ | Ethernet | Realtek  |
+ | Wi-Fi / Bluetooth | Intel Wireless-AC 9560 |
  | Card Reader | *(To be filled)* |
- | Audio | *(To be filled)* |
+ | Audio | Realtek ALC662 |
  | UEFI BIOS Utility | *(To be filled)* |
 
  ## 설치방법
