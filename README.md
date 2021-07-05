@@ -7,7 +7,7 @@
  | Model | Samsung Desktop 5 DM500T9Z-AD5A |
  | CPU | Intel Core i5-9400 |
  | Graphics | Intel UHD Graphics 630 |
- | RAM | 8GB DDR4 |
+ | RAM | Samsung 8GB 2667 MHz DDR4 DIMM |
  | Ethernet | Realtek  |
  | Wi-Fi / Bluetooth | Intel Wireless-AC 9560 |
  | Card Reader | *(To be filled)* |
