@@ -16,7 +16,7 @@
  | Audio | Realtek HD Audio ALC662 |
  | UEFI BIOS Utility | Aptio Setup Utility P05OEC.040.190723.CL |
 
- ## 설치방법
+ ## 설치 방법
 
  1. [Configuration.pdf](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)를 정독합니다.
  2. [Dortania guides](https://dortania.github.io/getting-started/)를 정독합니다.
