@@ -6,13 +6,15 @@
  | - | - |
  | Model | Samsung Desktop 5 DM500T9Z-AD5A |
  | CPU | Intel Core i5-9400 |
+ | SSD | Samsung MZNLN256HAJQ-000 *(Original)* / TeamGroup L3 EVO 240GB *(External macOS Disk)* |
+ | HDD | WDC WD10EZEX-22MFCA0 |
  | Graphics | Intel UHD Graphics 630 |
  | RAM | Samsung 8GB 2667 MHz DDR4 DIMM |
- | Ethernet | Realtek  |
+ | Ethernet | Realtek RTL8168 Gigabit Ethernet Controller |
  | Wi-Fi / Bluetooth | Intel Wireless-AC 9560 |
- | Card Reader | *(To be filled)* |
+ | Card Reader | Realtek 3-in-1 (SD/SDHC/SDXC) Care Reader |
  | Audio | Realtek ALC662 |
- | UEFI BIOS Utility | *(To be filled)* |
+ | UEFI BIOS Utility | Aptio Setup Utility P05OEC.040.190723.CL |
 
  ## 설치방법
 
