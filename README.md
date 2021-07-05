@@ -13,7 +13,7 @@
  | Ethernet | Realtek RTL8168 Gigabit Ethernet Controller |
  | Wi-Fi / Bluetooth | Intel Wireless-AC 9560 |
  | Card Reader | Realtek 3-in-1 (SD/SDHC/SDXC) Care Reader |
- | Audio | Realtek ALC662 |
+ | Audio | Realtek HD Audio ALC662 |
  | UEFI BIOS Utility | Aptio Setup Utility P05OEC.040.190723.CL |
 
  ## 설치방법
@@ -25,6 +25,7 @@
  5. USB로 부팅해서 macOS Installer를 선택한 후 설치합니다.
  6. SSD의 EFI 파티션을 마운트한 후 USB EFI를 SSD의 EFI로 붙여넣습니다.
  7. SMBIOS의 시리얼 숫자들을 새로 생성하십시오.
+ - Note: 경우에 따라서 별도 패치가 필요할 수 있습니다.
      - 전력관리를 최대 활성화하고자 하는 경우 -- [MSR 0xE2 (CFG Lock) 해제](#mrs-0xe2-cfg-lock-해제)
 
  ## MSR 0xE2 (CFG Lock) 해제
