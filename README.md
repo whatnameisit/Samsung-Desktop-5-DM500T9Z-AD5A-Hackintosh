@@ -13,7 +13,7 @@
  | Ethernet | Realtek RTL8168 Gigabit Ethernet Controller |
  | Wi-Fi / Bluetooth | CNVi Intel Wireless-AC 9560 *(Can be replaced with BCM94360NG)* |
  | Card Reader | Realtek 3-in-1 (SD/SDHC/SDXC) Care Reader |
- | Audio | Realtek HD Audio ALC662 |
+ | Audio | Realtek ALC662 |
  | UEFI BIOS Utility | Aptio Setup Utility P05OEC.040.190723.CL |
 
  ## 설치 방법
