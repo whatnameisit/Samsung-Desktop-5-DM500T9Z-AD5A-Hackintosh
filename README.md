@@ -12,7 +12,7 @@
  | RAM | Samsung 8GB 2667 MHz DDR4 DIMM |
  | Ethernet | Realtek RTL8168 Gigabit Ethernet Controller |
  | Wi-Fi / Bluetooth | CNVi Intel Wireless-AC 9560 *(Can be replaced with BCM94360NG)* |
- | Card Reader | Realtek 3-in-1 (SD/SDHC/SDXC) Care Reader |
+ | Card Reader | Realtek 3-in-1 (SD/SDHC/SDXC) Card Reader |
  | Audio | Realtek ALC662 |
  | UEFI BIOS Utility | Aptio Setup Utility P05OEC.040.190723.CL |
 
